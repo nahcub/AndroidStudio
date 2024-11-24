@@ -67,7 +67,7 @@ class MainActivity : ComponentActivity() {
         }
     }
 }
-
+//it doesn't work
 @Composable
 fun AffirmationsApp() {
     val layoutDirection = LocalLayoutDirection.current
